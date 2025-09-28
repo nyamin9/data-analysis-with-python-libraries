@@ -19,7 +19,8 @@ dependencies = [
     "scikit-learn (>=1.7.1,<2.0.0)",
     "beautifulsoup4 (>=4.13.4,<5.0.0)",
     "jupyter (>=1.1.1,<2.0.0)",
-    "notebook (>=7.4.4,<8.0.0)"
+    "notebook (>=7.4.4,<8.0.0)",
+    "html5lib (>=1.1,<2.0)"
 ]
 
 
